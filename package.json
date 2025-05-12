@@ -1,0 +1,38 @@
+{
+  "name": "@shadow-boy/obfuscator-io-metro-plugin",
+  "version": "2.1.4",
+  "description": "A metro plugin to use javascript-obfuscator library with react-native ",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadow-boy/obfuscator-io-metro-plugin.git"
+  },
+  "author": "Shubham Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadow-boy//obfuscator-io-metro-plugin/issues"
+  },
+  "homepage": "https://github.com/shadow-boy/obfuscator-io-metro-plugin#readme",
+  "keywords": [
+    "obfuscation",
+    "javascript",
+    "metro",
+    "react-native",
+    "react-native-obfuscation",
+    "react-native-obfuscator",
+    "javascript-obfuscator"
+  ],
+  "dependencies": {
+    "combine-source-map": "0.8.0",
+    "commander": "2.20.3",
+    "fs-extra": "8.1.0",
+    "glob": "7.1.6",
+    "javascript-obfuscator": "^4.0.2"
+  }
+}
