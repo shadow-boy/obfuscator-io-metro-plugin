@@ -31,7 +31,7 @@
   "dependencies": {
     "combine-source-map": "0.8.0",
     "commander": "2.20.3",
-    "fs-extra": "8.1.0",
+    "fs-extra": "^11.3.0",
     "glob": "7.1.6",
     "javascript-obfuscator": "^4.0.2"
   }
