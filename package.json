@@ -33,6 +33,7 @@
     "commander": "2.20.3",
     "fs-extra": "^11.3.0",
     "glob": "7.1.6",
-    "javascript-obfuscator": "^4.0.2"
+    "javascript-obfuscator": "^4.0.2",
+    "rimraf": "^6.0.1"
   }
 }
